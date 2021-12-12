@@ -1,8 +1,9 @@
 # equipanelecv2
 
 El orden de las ramas es:<br>
-<ul>
+<ol>
   <li> main</li>
-2.-Instalacion de libreriras
-3.-creacion del proyecto
-4.-configuracion de api plataform
+<li>Instalacion de libreriras</li>
+  <li>creacion del proyecto</li>
+  <li>configuracion de api plataform</li>
+</ol>
